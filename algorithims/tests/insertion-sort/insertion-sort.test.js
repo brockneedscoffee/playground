@@ -1,5 +1,5 @@
 function insertionSort(nums) {
-  for (let i = i; i < nums.length; i++) {
+  for (let i = 1; i < nums.length; i++) {
     let numberToInsert = nums[i]; // this is the numberToInsert number we want to insert
     let j; // the inner counter
 
